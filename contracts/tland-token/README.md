@@ -33,12 +33,13 @@ The optimized contracts are generated in the `artifacts/` directory.
 
 ```json
 {
+  "owner": "terra1dnf8xxhal8rc9vul43a3v3lsu79uym68znyk3q"
   "decimals": 6,
-  "name": "TerraLand token",
-  "symbol": "TLAND",
+  "name": "HighwayLand token",
+  "symbol": "HWLD",
   "initial_balances": [
     {
-      "address": "terra1mtdhy09e9j7x34jrqldsqntazlx00y6v5llf24",
+      "address": "terra1dnf8xxhal8rc9vul43a3v3lsu79uym68znyk3q",
       "amount": "100000000000000"
     }
   ]
