@@ -16,3 +16,4 @@ along with a `checksums.txt` file.
 If you hit any issues there and want to debug, you can try to run the
 following in each contract dir:
 `RUSTFLAGS="-C link-arg=-s" cargo build --release --target=wasm32-unknown-unknown --locked`
+
